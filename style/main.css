@@ -9238,4 +9238,35 @@ body {
   display: block;
   border: 3px solid #c1a724;
   box-shadow: 0.3em 0.3em 0.8em rgb(228, 212, 37);
+}
+
+.about-content {
+  margin-top: 20px;
+}
+.about-content .about .card {
+  background-color: rgb(27, 27, 25);
+  border-radius: 12px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.about-content .about .card .title {
+  color: whitesmoke;
+  font-size: 17px;
+  font-weight: bold;
+}
+.about-content .about .card .horizontal {
+  height: 1px;
+  width: 250px;
+  border: 1px solid #c1a724;
+}
+.about-content .about .card .img .gambar {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.about-content .about .card p {
+  color: whitesmoke;
+  font-weight: normal;
+  font-size: 15px;
+  text-indent: 2em;
 }/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,38 @@
+.about-content {
+    margin-top: 20px;
+    .about {
+        .card {
+            background-color: rgb(27, 27, 25);
+            border-radius: 12px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+
+
+            .title {
+                color: whitesmoke;
+                font-size: 17px;
+                font-weight: bold;
+            }
+
+            .horizontal {
+                height: 1px;
+                width: 250px;
+                border: 1px solid #c1a724;
+            }
+
+            .img {
+                .gambar {
+                    margin-left: auto;
+                    margin-right: auto;
+                    display: block;
+                }
+            }
+            p {
+                color: whitesmoke;
+                font-weight: normal;
+                font-size: 15px;
+                text-indent: 2em;
+            }
+        }
+    }
+}
