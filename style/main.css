@@ -9301,4 +9301,25 @@ body {
   color: whitesmoke;
   font-weight: bold;
   font-size: 15px;
+}
+
+.portfolio-content .portfolio .card {
+  padding: 15px;
+  background-color: rgb(27, 27, 25);
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.portfolio-content .portfolio .card img {
+  border-radius: 8px;
+}
+.portfolio-content .portfolio .card .web-title {
+  color: whitesmoke;
+  margin-top: 5px;
+  font-weight: bold;
+  font-size: 16px;
+}
+.portfolio-content .portfolio .card .desc-web {
+  color: rgb(195, 195, 195);
+  font-size: 14px;
+  margin-top: 8px;
 }/*# sourceMappingURL=main.css.map */
