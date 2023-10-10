@@ -9210,8 +9210,12 @@ body {
   margin-right: 15px;
   color: whitesmoke;
 }
-.navbar .nav-link:hover, .navbar .nav-link:active {
+.navbar .nav-link:hover {
   color: #c1a724;
+}
+.navbar .active, .navbar nav-link:hover {
+  color: #c1a724;
+  border-bottom: 1px solid #c1a724;
 }
 
 .page-content .header {

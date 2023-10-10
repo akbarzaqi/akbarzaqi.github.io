@@ -13,11 +13,16 @@
         margin-right: 15px;
         color: whitesmoke;
 
-        &:hover,
-        &:active {
+        &:hover {
             color: #c1a724;
         }
+
+       
     }
+    .active, nav-link:hover {
+        color: #c1a724;
+        border-bottom: 1px solid #c1a724;
+       }
 }
 .page-content {
     
