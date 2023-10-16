@@ -1,0 +1,27 @@
+.contact-content {
+    margin-top: 20px;
+    .contact {
+        .card-contact {
+            background-color: whitesmoke;
+
+            .title {
+                font-size: 22px;
+                font-weight: bold;
+                color: #303030;
+                margin-bottom: 15px;
+            }
+
+            
+
+            input {
+                margin-bottom: 10px;
+                background-color: transparent;
+                
+            }
+            textarea {
+                background-color: transparent;
+                
+            }
+        }
+    }
+}

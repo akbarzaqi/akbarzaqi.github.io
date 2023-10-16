@@ -9326,4 +9326,24 @@ body {
   color: rgb(195, 195, 195);
   font-size: 14px;
   margin-top: 8px;
+}
+
+.contact-content {
+  margin-top: 20px;
+}
+.contact-content .contact .card-contact {
+  background-color: whitesmoke;
+}
+.contact-content .contact .card-contact .title {
+  font-size: 22px;
+  font-weight: bold;
+  color: #303030;
+  margin-bottom: 15px;
+}
+.contact-content .contact .card-contact input {
+  margin-bottom: 10px;
+  background-color: transparent;
+}
+.contact-content .contact .card-contact textarea {
+  background-color: transparent;
 }/*# sourceMappingURL=main.css.map */
