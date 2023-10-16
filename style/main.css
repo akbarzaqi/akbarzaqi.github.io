@@ -9332,7 +9332,7 @@ body {
   margin-top: 20px;
 }
 .contact-content .contact .card-contact {
-  background-color: whitesmoke;
+  background-color: rgb(216, 216, 216);
 }
 .contact-content .contact .card-contact .title {
   font-size: 22px;
@@ -9343,7 +9343,9 @@ body {
 .contact-content .contact .card-contact input {
   margin-bottom: 10px;
   background-color: transparent;
+  border: 1px solid black;
 }
 .contact-content .contact .card-contact textarea {
   background-color: transparent;
+  border: 1px solid black;
 }/*# sourceMappingURL=main.css.map */
